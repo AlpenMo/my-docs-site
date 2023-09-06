@@ -1,6 +1,9 @@
 ---
 title: Home
 layout: home
+nav_order: 1
+description: "This is my practice site."
+permalink: /
 ---
 
 # Test test test
