@@ -2,38 +2,33 @@
 title: Home
 layout: home
 nav_order: 1
-description: "This is my practice site."
+description: "Demo S&C KB"
 permalink: /
 ---
 
-# Test test test
-This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
+# Welcome to S&C Associates' Demo Knowledge Base
+This is just a demo site to show what an online S&C Knowledge Base could look like. It's pretty bare bones right now, but it's capable of a lot more. You can ignore what the URL is right now, we can change it later. The best part about this site? Totally free.  
 
-If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
+You can check out a more robust version of this site [here].
 
-More specifically, the created site:
+I've added a small section from our "Welcome!" folder just as a demo. This site supports images, but I haven't included any yet. It's written in what's called [Markdown], which is a simple markup language used across the web.  
 
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages
+### But why?
+Mostly because the system of Word docs stashed in Dropbox folders drives me a little nuts 🐿️. It's hard to find what you're looking for, and there's no good way to organize content in a logical manner. Instead, we can use a documentation site like this to group content together and make it easier to find (for example, a SWPP section that goes through how to add SWPP BMPs to a design file and a setup section that goes over how to set up Plan Sheets). Everything would be navigatable from the side bar and possibly searchable (I haven't tried the search feature yet, no idea if it's any good). 
 
-Other than that, you're free to customize sites that you create with this template, however you like. You can easily change the versions of `just-the-docs` and Jekyll it uses, as well as adding further plugins.
+### Any other reason?
+Yes! This also uses Github, which is a version control software that makes it really easy to collaborate and make changes to a document. It's owned by Microsoft and used throughout the tech industry. It's really stable, and it offers a nifty feature called Github pages (that's the site that's hosting this site). I don't know how to build and deploy a website on my own, but Github makes it super easy. With Github, you can easily see what changes have been made, and you can roll back any changes that you want to undo. 
 
-[Browse our documentation][Just the Docs] to learn more about how to use this theme.
+### Any other other reasons?
+I just like writing docs this way 🙃
 
-To get started with creating a site, simply:
-
-1. click "[use this template]" to create a GitHub repository
-2. go to Settings > Pages > Build and deployment > Source, and select GitHub Actions
-
-If you want to maintain your docs in the `docs` directory of an existing project repo, see [Hosting your docs from an existing project repo](https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md#hosting-your-docs-from-an-existing-project-repo) in the template README.
+### Any downsides?
+Github doesn't have a spellchecker built in 😖. Also, there's a way to make a fully custom domain (without the "github.io" part), but I'm not sure how to do it. I think the final version would be something like sandcassociates.github.io/knowledge-base, or whatever we decide on.
 
 ----
 
-[^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
+[^1]: [This is what a source could look like]
 
-[Just the Docs]: https://just-the-docs.github.io/just-the-docs/
-[GitHub Pages]: https://docs.github.com/en/pages
-[README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
-[Jekyll]: https://jekyllrb.com
-[GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
-[use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
+[here]: https://just-the-docs.github.io/just-the-docs/
+[Markdown]:https://daringfireball.net/projects/markdown/
+

@@ -5,4 +5,9 @@ theme: just-the-docs
 url: https://alpenmo.github.io/my-docs-site
 
 aux_links:
-  Checkout the Github Repo: https://github.com/alpenmo/my-docs-site
+  "Checkout the Github Repo": https://github.com/alpenmo/my-docs-site
+
+callouts:
+    note:
+        title: Note
+        color: purple
