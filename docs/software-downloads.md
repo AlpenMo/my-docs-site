@@ -5,7 +5,7 @@ parent: Welcome
 nav_order: 1
 ---
 
-# Typography
+# Software Downloads
 {: .no_toc }
 
 ## Table of contents
@@ -15,7 +15,6 @@ nav_order: 1
 {:toc}
 
 ---
-# Software Downloads
 Once you have your workstation, you'll need to download the required software. Follow the instructions on this page to get everything you need to work.
 
 {: .note }
