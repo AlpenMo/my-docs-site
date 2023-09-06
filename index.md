@@ -6,7 +6,7 @@ description: "Demo S&C KB"
 permalink: /
 ---
 
-# Welcome to S&C Associate's Demo Knowledge Base
+# Welcome to S&C Associates' Demo Knowledge Base
 This is just a demo site to show what an online S&C Knowledge Base could look like. It's pretty bare bones right now, but it's capable of a lot more. You can ignore what the URL is right now, we can change it later. The best part about this site? Totally free.  
 
 You can check out a more robust version of this site [here].
