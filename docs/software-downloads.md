@@ -18,6 +18,9 @@ nav_order: 1
 # Software Downloads
 Once you have your workstation, you'll need to download the required software. Follow the instructions on this page to get everything you need to work.
 
+{: .note }
+For software licenses that require purchasing, ask your supervisor for the corporate credit card information.
+
 ## Company Email
 Your email account is set up with no action on your part necessary. You can access your email via the Outlook icon in the Windows taskbar. 
 - Open Outlook
