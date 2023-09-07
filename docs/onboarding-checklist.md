@@ -15,4 +15,3 @@ Use this checklist to understand what you need to complete your onboarding exper
 | Medical Insurance Form | Staff Member   | Sherri  | Sherri |
 | Direct Deposit Form | Staff Member   | Sherri  | Sherri |
 | Tax Forms | Staff Member   | Sherri  | Sherri |
-| Other Stuff | Staff Member   | Sherri  | Sherri |
