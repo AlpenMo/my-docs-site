@@ -15,7 +15,7 @@ nav_order: 1
 {:toc}
 
 ---
-Once you have your workstation, you'll need to download the required software. Follow the instructions on this page to get everything you need to work.
+Once you have your workstation, you'll need to download the required software. Follow the instructions on this page to get everything you need.
 
 {: .note }
 For software licenses that require purchasing, ask your supervisor for the corporate credit card information.
